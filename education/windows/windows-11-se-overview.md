@@ -1,5 +1,5 @@
 ---
-title: Windows 11 SE Overview
+title: Windows 11 SE Overview 
 description: Learn about Windows 11 SE, and the apps that are included with the operating system.
 ms.topic: overview
 ms.date: 01/09/2024
